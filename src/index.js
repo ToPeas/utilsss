@@ -1,5 +1,5 @@
-import { deepCopy } from './clone.js';
+export { deepCopy } from './clone.js';
 
-export default {
-  deepCopy,
-};
+// export default {
+//   deepCopy,
+// };
