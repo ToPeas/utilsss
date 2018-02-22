@@ -1,6 +1,6 @@
 {
   "name": "utilsss",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "an useful utils package,like lodash ",
   "main": "build/index.js",
   "repository": "https://github.com/ToPeas/utilsss/issues",
